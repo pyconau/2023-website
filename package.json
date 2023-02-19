@@ -14,7 +14,7 @@
     "@types/jsdom": "^20.0.1",
     "astro": "^1.7.1",
     "prettier": "^2.8.1",
-    "prettier-plugin-astro": "^0.7.0",
+    "prettier-plugin-astro": "^0.8.0",
     "sass": "^1.57.0",
     "typescript": "^4.9.4"
   },
