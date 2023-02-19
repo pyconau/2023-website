@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/jsdom": "^20.0.1",
+    "@types/jsdom": "^21.1.0",
     "astro": "^1.7.1",
     "prettier": "^2.8.1",
     "prettier-plugin-astro": "^0.7.0",
